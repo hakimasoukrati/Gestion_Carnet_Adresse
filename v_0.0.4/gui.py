@@ -13,7 +13,6 @@ class AddressBookGUI(tk.Tk):
         self.geometry("520x500")
         self.resizable(False, False)
         self.carnet = AddressBook()
-
         self.contacts_affiches = []
 
         self.var_nom = tk.StringVar()
