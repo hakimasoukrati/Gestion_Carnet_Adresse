@@ -25,7 +25,6 @@ def main():
             elif choix == "3":
                 nom = input("Nom du contact à supprimer: ")
                 carnet.supprimer_contact(nom)
-
             elif choix == "4":
                 print("Au revoir 👋")
                 break
