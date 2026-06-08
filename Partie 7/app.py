@@ -194,3 +194,5 @@ if __name__ == "__main__":
 # CD-44: Fonction send_email() avec smtplib 
  
 # CD-44: Interface pour saisir sujet et message 
+ 
+# CD-46: Integration API WhatsApp avec pywhatkit 
