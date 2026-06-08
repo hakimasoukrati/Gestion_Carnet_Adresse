@@ -174,3 +174,5 @@ class ContactModel:
 # CD-50: Liste categories (clients, fournisseurs...) 
  
 # CD-51: Cle etrangere category_id dans contacts 
+ 
+# CD-53: Refactorisation structure contacts 
