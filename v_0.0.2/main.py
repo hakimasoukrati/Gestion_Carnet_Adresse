@@ -10,7 +10,7 @@ def main():
         print("3. Supprimer un contact")
         print("4. Quitter")
         choix = input("Choix: ")
-        try:
+        try: 
             if choix == "1":
                 nom = input("Nom: ")
                 email = input("Email: ")
