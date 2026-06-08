@@ -55,7 +55,6 @@ class AddressBook:
 
     def _load_contacts(self):
         contacts = []
-
         with open(self.filename, "r") as f:
             for line in f:
                 line = line.strip()
