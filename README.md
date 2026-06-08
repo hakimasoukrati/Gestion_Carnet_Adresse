@@ -12,3 +12,6 @@ Une branche par fonctionnalite (feature/CD-XX)
  
 ## CD-63: Pull Requests 
 Workflow de revue de code avec PR 
+ 
+## CD-64: Resolution conflits 
+Procedure de resolution des conflits de merge 
