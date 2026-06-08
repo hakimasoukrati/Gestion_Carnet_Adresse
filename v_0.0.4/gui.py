@@ -339,4 +339,5 @@ class AddressBookGUI(tk.Tk):
 if __name__ == "__main__":
 
     app = AddressBookGUI()
-    app.mainloop()
+    app.mainloop() 
+# CD-35: Integration BDD dans interface Tkinter 
