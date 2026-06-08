@@ -196,3 +196,5 @@ if __name__ == "__main__":
 # CD-44: Interface pour saisir sujet et message 
  
 # CD-46: Integration API WhatsApp avec pywhatkit 
+ 
+# CD-47: Fonction send_whatsapp(numero, message) 
