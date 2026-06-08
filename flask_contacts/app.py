@@ -112,3 +112,4 @@ if __name__ == "__main__":
  
  
 # CD-41: Confirmation JavaScript avant suppression 
+# CD-45: Initialisation app Flask 
