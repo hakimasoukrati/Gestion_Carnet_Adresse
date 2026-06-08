@@ -52,4 +52,5 @@ def init_db():
 def reset_db():
     if os.path.exists(DB_NAME):
         os.remove(DB_NAME)
-    init_db()
+    init_db() 
+# CD-49: Mise a jour schema BDD 
