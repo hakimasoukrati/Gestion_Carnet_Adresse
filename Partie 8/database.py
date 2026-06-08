@@ -54,3 +54,5 @@ def reset_db():
         os.remove(DB_NAME)
     init_db() 
 # CD-49: Mise a jour schema BDD 
+ 
+# CD-50: Table categories en BDD 
