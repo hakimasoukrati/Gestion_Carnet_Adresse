@@ -26,6 +26,6 @@ class AddressBook:
             if contact.nom.lower() == nom.lower():
                 self.contacts.remove(contact)
                 print("Contact supprimé.")
-                return
+                return 
     
         print("Contact non trouvé.")
