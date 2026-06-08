@@ -104,3 +104,5 @@ if __name__ == "__main__":
 # CD-36: Configuration de base de Flask 
  
 # CD-37: Route / pour la page d'accueil 
+ 
+# CD-38: Route /contacts avec liste 
