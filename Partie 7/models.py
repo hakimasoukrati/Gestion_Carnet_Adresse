@@ -164,3 +164,5 @@ class ContactModel:
 
         return results 
 # CD-43: Parametres SMTP (host, port, credentials) 
+ 
+# CD-45: Templates de messages predefinies 
