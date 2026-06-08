@@ -248,3 +248,5 @@ if __name__ == "__main__":
 # CD-58: Fonction update_rdv() 
  
 # CD-58: Fonction delete_rdv() avec confirmation 
+ 
+# CD-59: Affichage nom contact dans liste RDV 
