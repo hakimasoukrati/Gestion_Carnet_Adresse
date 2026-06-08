@@ -192,3 +192,5 @@ Système CRM
 if __name__ == "__main__":
     app.run(debug=True) 
 # CD-51: Selection categorie lors ajout contact 
+ 
+# CD-52: Menu deroulant filtre par categorie 
