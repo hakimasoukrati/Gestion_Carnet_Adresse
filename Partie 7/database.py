@@ -22,4 +22,5 @@ def init_db():
     """)
 
     conn.commit()
-    conn.close()
+    conn.close() 
+# CD-45: Stockage des modeles en BDD 
