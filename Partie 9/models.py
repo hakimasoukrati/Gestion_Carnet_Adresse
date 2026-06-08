@@ -170,3 +170,5 @@ class ContactModel:
 
         return results 
 # CD-54: Modele RendezVous 
+ 
+# CD-57: Tri par date des RDV 
