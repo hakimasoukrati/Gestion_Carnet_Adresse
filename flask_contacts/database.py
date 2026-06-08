@@ -24,3 +24,5 @@ def init_db():
     conn.commit()
     conn.close() 
 # CD-39: Insertion via formulaire web 
+ 
+# CD-42: Connexion Flask avec SQLite 
