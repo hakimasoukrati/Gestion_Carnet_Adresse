@@ -170,3 +170,5 @@ class ContactModel:
 
         return results 
 # CD-49: Champs adresse, entreprise, fonction 
+ 
+# CD-50: Liste categories (clients, fournisseurs...) 
