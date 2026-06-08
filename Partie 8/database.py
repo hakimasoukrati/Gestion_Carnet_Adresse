@@ -56,3 +56,5 @@ def reset_db():
 # CD-49: Mise a jour schema BDD 
  
 # CD-50: Table categories en BDD 
+ 
+# CD-53: Migration schema BDD 
