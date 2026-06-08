@@ -13,7 +13,6 @@ class Database:
     # CREATION DES TABLES
     # -------------------------
     def creer_tables(self):
-
         # TABLE CONTACTS
         self.cursor.execute("""
         CREATE TABLE IF NOT EXISTS contacts (
