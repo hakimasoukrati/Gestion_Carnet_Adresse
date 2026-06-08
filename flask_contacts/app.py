@@ -110,3 +110,5 @@ if __name__ == "__main__":
 # CD-39: Route /ajouter avec formulaire POST 
  
  
+ 
+# CD-41: Confirmation JavaScript avant suppression 
