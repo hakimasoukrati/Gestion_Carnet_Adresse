@@ -107,3 +107,5 @@ class AddressBook:
 # CD-32: Affichage des contacts recuperes 
  
 # CD-33: Confirmation avant suppression 
+ 
+# CD-34: Methode update dans AddressBook 
