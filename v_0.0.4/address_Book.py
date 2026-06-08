@@ -105,3 +105,5 @@ class AddressBook:
 
             writer.writerows(contacts) 
 # CD-32: Affichage des contacts recuperes 
+ 
+# CD-33: Confirmation avant suppression 
