@@ -41,3 +41,4 @@ class Database:
         """)
 
         self.conn.commit()
+        
