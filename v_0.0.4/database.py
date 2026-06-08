@@ -42,3 +42,5 @@ class Database:
 # CD-33: Fonction delete_contact() avec ID 
  
 # CD-34: Fonction update_contact() pour modifier 
+ 
+# CD-35: Connexion sqlite3 a la base de donnees 
