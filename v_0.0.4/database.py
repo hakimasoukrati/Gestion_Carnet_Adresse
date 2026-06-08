@@ -36,4 +36,5 @@ class Database:
         )
         """)
 
-        self.conn.commit()
+        self.conn.commit() 
+# CD-32: Fonction get_all_contacts() depuis SQLite 
