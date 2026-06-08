@@ -162,4 +162,5 @@ class ContactModel:
         results = cursor.fetchall()
         conn.close()
 
-        return results
+        return results 
+# CD-37: Template index.html 
