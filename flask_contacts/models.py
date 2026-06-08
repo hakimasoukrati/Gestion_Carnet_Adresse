@@ -164,3 +164,5 @@ class ContactModel:
 
         return results 
 # CD-37: Template index.html 
+ 
+# CD-38: Template Jinja2 liste contacts 
