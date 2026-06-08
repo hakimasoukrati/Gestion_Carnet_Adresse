@@ -12,6 +12,5 @@ class Contact:
         self.nom = nom
         self.email = email
         self.telephone = telephone
-
     def __str__(self):
         return f"{self.nom},{self.email},{self.telephone}"
