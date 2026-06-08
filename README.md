@@ -9,3 +9,6 @@ Projet publie sur le depot distant
  
 ## CD-62: Gestion des branches 
 Une branche par fonctionnalite (feature/CD-XX) 
+ 
+## CD-63: Pull Requests 
+Workflow de revue de code avec PR 
