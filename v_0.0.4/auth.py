@@ -9,11 +9,9 @@ class Auth:
     # -------------------------
     @staticmethod
     def hash_password(password):
-
         return hashlib.sha256(password.encode()).hexdigest()
-
     # -------------------------
-    # CREER ADMIN
+    # CREER ADMI
     # -------------------------
     @staticmethod
     def creer_admin():
