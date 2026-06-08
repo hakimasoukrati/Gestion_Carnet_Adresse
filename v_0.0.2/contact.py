@@ -7,7 +7,6 @@ class Contact:
 
         if not (isinstance(nom, str) and nom.strip() != "" and re.match(r'^[A-Za-zÀ-ÿ\s]+$', nom)):
             raise ValueError("Nom invalide")
-
         if not (isinstance(telephone, str) and re.match(r'^(05|06|07)\d{8}$', telephone)):
             raise ValueError("Numéro marocain invalide")
 
