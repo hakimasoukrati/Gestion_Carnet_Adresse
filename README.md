@@ -15,3 +15,6 @@ Workflow de revue de code avec PR
  
 ## CD-64: Resolution conflits 
 Procedure de resolution des conflits de merge 
+ 
+## CD-65: Collaboration equipe 
+Workflow de collaboration entre developpeurs 
