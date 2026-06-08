@@ -236,3 +236,5 @@ def rdv(id):
 if __name__ == "__main__":
     app.run(debug=True) 
 # CD-54: Interface Tkinter pour gestion RDV 
+ 
+# CD-55: Widget Calendar pour selection date 
