@@ -29,10 +29,8 @@ def main():
             elif choix == "4":
                 print("Au revoir 👋")
                 break
-
             else:
                 print("Choix invalide.")
-
         except ValueError as e:
             print("Erreur:", e)
 
