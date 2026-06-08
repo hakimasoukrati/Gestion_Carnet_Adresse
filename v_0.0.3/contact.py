@@ -4,7 +4,6 @@ class Contact:
     def __init__(self, nom, email, telephone):
         if not (isinstance(email, str) and re.match(r'^[\w\.-]+@[\w\.-]+\.\w+$', email)):
             raise ValueError("Email invalid")
-
         if not (isinstance(nom, str) and nom.strip() != "" and re.match(r'^[A-Za-zÀ-ÿ\s]+$', nom)):
             raise ValueError("Nom invalide")
 
