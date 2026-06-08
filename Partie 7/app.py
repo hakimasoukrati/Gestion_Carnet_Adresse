@@ -202,3 +202,5 @@ if __name__ == "__main__":
 # CD-47: Bouton WhatsApp dans interface 
  
 # CD-48: Gestion erreurs envoi email try/except 
+ 
+# CD-48: Messages d'erreur utilisateur 
