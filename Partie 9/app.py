@@ -246,3 +246,5 @@ if __name__ == "__main__":
 # CD-57: Liste des RDV programmes 
  
 # CD-58: Fonction update_rdv() 
+ 
+# CD-58: Fonction delete_rdv() avec confirmation 
