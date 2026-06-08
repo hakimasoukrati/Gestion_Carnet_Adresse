@@ -7,7 +7,6 @@ from contact import Contact
 from address_Book import AddressBook
 
 class AddressBookGUI(tk.Tk):
-
     def __init__(self):
         super().__init__()
         self.title("Allo !")
