@@ -238,3 +238,5 @@ if __name__ == "__main__":
 # CD-54: Interface Tkinter pour gestion RDV 
  
 # CD-55: Widget Calendar pour selection date 
+ 
+# CD-55: Selecteur d'heure (heure:minute) 
