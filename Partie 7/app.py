@@ -188,4 +188,5 @@ Service de gestion des contacts
 # RUN APP
 # =================================================
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True) 
+# CD-43: Configuration SMTP pour envoi emails 
