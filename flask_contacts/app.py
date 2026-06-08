@@ -115,3 +115,4 @@ if __name__ == "__main__":
 # CD-45: Initialisation app Flask 
 # CD-46: Route / page d'accueil 
 # CD-48: Route POST /ajouter formulaire 
+# CD-52: Configuration debug, port, host 
