@@ -52,7 +52,6 @@ class AddressBook:
             print("Contact supprimé")
         else:
             print("Contact introuvable")
-
     def _load_contacts(self):
         contacts = []
         with open(self.filename, "r") as f:
