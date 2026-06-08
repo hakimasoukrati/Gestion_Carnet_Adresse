@@ -9,7 +9,7 @@ class Contact:
         if not (isinstance(telephone, str) and re.match(r'^(05|06|07)\d{8}$', telephone)):
             raise ValueError("Numéro marocain invalide")
         self.nom = nom
-        self.email = email
+        self.email = email 
         self.telephone = telephone
     def __str__(self):
         return f"{self.nom},{self.email},{self.telephone}"
