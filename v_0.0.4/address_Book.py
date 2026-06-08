@@ -103,4 +103,5 @@ class AddressBook:
 
             writer.writerow(["Nom", "Email", "Téléphone"])
 
-            writer.writerows(contacts)
+            writer.writerows(contacts) 
+# CD-32: Affichage des contacts recuperes 
