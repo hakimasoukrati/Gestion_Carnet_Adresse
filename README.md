@@ -18,3 +18,6 @@ Procedure de resolution des conflits de merge
  
 ## CD-65: Collaboration equipe 
 Workflow de collaboration entre developpeurs 
+ 
+## CD-66: Suivi des issues 
+Integration Jira-GitHub pour suivi des taches 
