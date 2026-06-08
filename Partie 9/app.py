@@ -240,3 +240,5 @@ if __name__ == "__main__":
 # CD-55: Widget Calendar pour selection date 
  
 # CD-55: Selecteur d'heure (heure:minute) 
+ 
+# CD-56: Verification creneaux disponibles 
