@@ -8,7 +8,6 @@ from gui import AddressBookGUI
 
 Auth.creer_admin()
 class LoginWindow(tk.Tk):
-
     def __init__(self):
         super().__init__()
 
