@@ -192,3 +192,5 @@ if __name__ == "__main__":
 # CD-43: Configuration SMTP pour envoi emails 
  
 # CD-44: Fonction send_email() avec smtplib 
+ 
+# CD-44: Interface pour saisir sujet et message 
