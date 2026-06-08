@@ -50,7 +50,7 @@ class AddressBook:
 
         if found:
             print("Contact supprimé")
-        else:
+        else: 
             print("Contact introuvable")
     def _load_contacts(self):
         contacts = []
