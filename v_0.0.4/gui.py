@@ -10,7 +10,6 @@ class AddressBookGUI(tk.Tk):
 
     def __init__(self):
         super().__init__()
-
         self.title("Allo !")
         self.geometry("520x500")
         self.resizable(False, False)

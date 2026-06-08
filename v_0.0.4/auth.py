@@ -3,11 +3,8 @@
 import hashlib
 from database import Database
 
-
 class Auth:
-
     db = Database()
-
     # -------------------------
     # HASH PASSWORD
     # -------------------------
