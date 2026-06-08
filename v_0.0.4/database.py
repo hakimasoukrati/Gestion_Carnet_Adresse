@@ -40,3 +40,5 @@ class Database:
 # CD-32: Fonction get_all_contacts() depuis SQLite 
  
 # CD-33: Fonction delete_contact() avec ID 
+ 
+# CD-34: Fonction update_contact() pour modifier 
