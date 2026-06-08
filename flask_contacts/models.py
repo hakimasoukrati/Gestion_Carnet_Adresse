@@ -166,3 +166,5 @@ class ContactModel:
 # CD-37: Template index.html 
  
 # CD-38: Template Jinja2 liste contacts 
+ 
+# CD-40: Template formulaire modification 
