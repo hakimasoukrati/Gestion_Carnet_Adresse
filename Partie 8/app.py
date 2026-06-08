@@ -194,3 +194,5 @@ if __name__ == "__main__":
 # CD-51: Selection categorie lors ajout contact 
  
 # CD-52: Menu deroulant filtre par categorie 
+ 
+# CD-52: Actualisation dynamique liste 
