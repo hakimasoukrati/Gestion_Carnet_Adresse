@@ -26,3 +26,4 @@ def init_db():
 # CD-39: Insertion via formulaire web 
  
 # CD-42: Connexion Flask avec SQLite 
+# CD-51: Integration SQLAlchemy avec Flask 
