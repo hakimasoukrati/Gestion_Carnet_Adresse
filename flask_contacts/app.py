@@ -100,3 +100,5 @@ def search():
 if __name__ == "__main__":
     app.run(debug=True) 
 # CD-36: Initialisation projet Flask 
+ 
+# CD-36: Configuration de base de Flask 
