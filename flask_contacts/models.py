@@ -168,3 +168,5 @@ class ContactModel:
 # CD-38: Template Jinja2 liste contacts 
  
 # CD-40: Template formulaire modification 
+ 
+# CD-42: Modeles SQLAlchemy 
