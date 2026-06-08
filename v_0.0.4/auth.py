@@ -12,7 +12,7 @@ class Auth:
         return hashlib.sha256(password.encode()).hexdigest()
     # -------------------------
     # CREER ADMI
-    # -------------------------
+    # ------------------------
     @staticmethod
     def creer_admin():
 
