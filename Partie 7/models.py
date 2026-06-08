@@ -166,3 +166,5 @@ class ContactModel:
 # CD-43: Parametres SMTP (host, port, credentials) 
  
 # CD-45: Templates de messages predefinies 
+ 
+# CD-46: Configuration WhatsApp Business 
