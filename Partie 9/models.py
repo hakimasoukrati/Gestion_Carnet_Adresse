@@ -172,3 +172,5 @@ class ContactModel:
 # CD-54: Modele RendezVous 
  
 # CD-57: Tri par date des RDV 
+ 
+# CD-59: Cle etrangere contact_id dans RDV 
