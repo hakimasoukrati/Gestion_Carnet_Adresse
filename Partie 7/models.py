@@ -162,4 +162,5 @@ class ContactModel:
         results = cursor.fetchall()
         conn.close()
 
-        return results
+        return results 
+# CD-43: Parametres SMTP (host, port, credentials) 
