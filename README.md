@@ -3,3 +3,6 @@ Python-based contact management application using Git for version control and Ji
  
 ## CD-60: Initialisation GitHub 
 Depot Git initialise avec git init 
+ 
+## CD-61: Publication GitHub 
+Projet publie sur le depot distant 
