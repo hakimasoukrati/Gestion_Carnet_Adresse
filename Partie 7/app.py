@@ -200,3 +200,5 @@ if __name__ == "__main__":
 # CD-47: Fonction send_whatsapp(numero, message) 
  
 # CD-47: Bouton WhatsApp dans interface 
+ 
+# CD-48: Gestion erreurs envoi email try/except 
