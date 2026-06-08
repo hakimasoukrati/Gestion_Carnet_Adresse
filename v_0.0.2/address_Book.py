@@ -56,7 +56,7 @@ class AddressBook:
         contacts = []
         with open(self.filename, "r") as f:
             for line in f:
-                line = line.strip()
+                line = line.strip() 
                 if line:
                     try:
                         nom, email, telephone = [x.strip() for x in line.split(",")]
