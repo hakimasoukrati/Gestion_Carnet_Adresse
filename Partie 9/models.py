@@ -168,4 +168,5 @@ class ContactModel:
         results = cursor.fetchall()
         conn.close()
 
-        return results
+        return results 
+# CD-54: Modele RendezVous 
